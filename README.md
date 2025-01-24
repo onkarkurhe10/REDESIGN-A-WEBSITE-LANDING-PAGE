@@ -13,3 +13,6 @@
 # MENTOR NAME :-  Neela Santhosh Kumar
 
 # ENTER DESCRIPTION OF TASK PERFORMANED  :- I USE FIMGA APPLICATION TO PERFORM THIS TASK . 
+
+# Output of the task :-
+![Image](https://github.com/user-attachments/assets/d7e43b06-89c0-47fb-bde6-2dc513a0db92)
